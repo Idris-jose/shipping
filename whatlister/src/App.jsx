@@ -11,11 +11,22 @@ export default function App() {
   return (
       <>
       <Header/>
+      <div id='section1'> 
       <Section1/>
+      </div>
+      <div id='section2'>
       <Section2/>
+      </div>
+      <div id='section3'>
       <Section3/>
+      </div>
+      <div id='section4'>
       <Section4/>
+      </div>
+      <div id='section5'>
       <Section5/>
+      </div>
+      
       <Footer/>
       </>
   );

@@ -11,7 +11,7 @@ export default function Section1() {
     };
 
     return (
-        <section className="min-h-screen flex flex-col p-4 sm:p-8 bg-[#111112]">
+        <section className="min-h-screen mt-14 flex flex-col p-4 sm:p-8 bg-[#111112]">
             <div className="flex flex-col md:flex-row gap-8 items-center justify-center mt-10 max-w-7xl mx-auto">
                 <div className="flex-1 flex flex-col items-start">
                     <h1 className="text-4xl sm:text-5xl md:text-7xl font-extrabold text-white leading-tight drop-shadow-lg">
